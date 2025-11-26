@@ -1,5 +1,5 @@
 📜 Universal License Agreement for PiperF312 Projects
-License Version: 1.0 Effective Date: November 25, 2025 Author: PiperF312 (GitHub/Discord handle) Applies To: All code, scripts, and assets uploaded under the PiperF312 GitHub repository structure, including dated folders and subprojects.
+License Version: 1.4 Effective Date: November 25, 2025 Author: PiperF312 (GitHub/Discord handle) Applies To: All code, scripts, and assets uploaded under the PiperF312 GitHub repository structure, including dated folders and subprojects.
 
 1. Ownership
 All source code and assets are the intellectual property of PiperF312. Users may not claim ownership, remove attribution, or misrepresent the origin of the code.
@@ -43,3 +43,4 @@ This license applies to all folders and files within the PiperF312 repository st
 8. Updates
 
 This license may be updated periodically. Users are responsible for checking the latest version in the root repository.
+
