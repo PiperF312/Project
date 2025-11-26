@@ -1,0 +1,44 @@
+📜 Universal License Agreement for PiperF312 Projects
+License Version: 1.0 Effective Date: November 25, 2025 Author: PiperF312 (GitHub/Discord handle) Applies To: All code, scripts, and assets uploaded under the PiperF312 GitHub repository structure, including dated folders and subprojects.
+
+1. Ownership
+All source code and assets are the intellectual property of PiperF312. Users may not claim ownership, remove attribution, or misrepresent the origin of the code.
+
+2. Attribution
+Any use, modification, or redistribution must include visible credit to: “Created by Discord user PiperF312” This must appear in the README, documentation, or project description.
+
+3. Naming & Identification
+Projects may be renamed or forked, but must not:
+
+Impersonate PiperF312 or original projects
+
+Promote illegal activity, abuse, or misleading claims
+
+Remove the original project reference or attribution
+
+4. Usage Rights
+You may use, modify, and configure the code for personal or educational purposes. Prohibited uses include:
+
+Commercial deployment without written permission
+
+Use in spam, attacks, or disruption of platforms
+
+Distribution via token/channel/command services
+
+5. Redistribution
+Redistribution is allowed only if:
+
+Attribution is clearly maintained
+
+The license file is included
+
+No commercial gain is involved unless approved
+
+6. Liability
+All code is provided “as is,” without warranty. PiperF312 is not responsible for misuse, damages, or violations caused by user actions.
+
+7. License Scope
+This license applies to all folders and files within the PiperF312 repository structure, including dated subfolders (e.g., Projects/2025-11-25, Projects/2025-11-26). Each folder may contain its own license if needed, but this agreement serves as the default.
+
+8. Updates
+This license may be updated periodically. Users are responsible for checking the latest version in the root repository.
