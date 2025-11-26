@@ -1,5 +1,6 @@
 README.txt
 ===========
+PS (Go to the Website for more info https://bulletcode-piperf312.rf.gd/
 
 READ THIS FIRST before editing the config.ini file
 --------------------------------------------------
