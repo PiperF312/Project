@@ -38,7 +38,8 @@ No commercial gain is involved unless approved
 All code is provided “as is,” without warranty. PiperF312 is not responsible for misuse, damages, or violations caused by user actions.
 
 7. License Scope
-This license applies to all folders and files within the PiperF312 repository structure, including dated subfolders (e.g., Projects/2025-11-25, Projects/2025-11-26). Each folder may contain its own license if needed, but this agreement serves as the default.
+This license applies to all folders and files within the PiperF312 repository structure, including dated subfolders (e.g., Projects/2025-11-25, Projects/2025-11-26 etc). Each folder may contain its own license if needed, but this agreement serves as the default.
 
 8. Updates
+
 This license may be updated periodically. Users are responsible for checking the latest version in the root repository.
